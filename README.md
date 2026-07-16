@@ -15,3 +15,7 @@ Shape Printer: Generate patterns using characters.
 Array Manipulation: Reversing arrays and finding the maximum element.
 
 Pointer Usage: Basic pointer demonstrations.
+
+string manipulation: vowel converter,space removers,frequency diffrent ways to implement code.
+
+string extras: slicing,salting,check characers.
